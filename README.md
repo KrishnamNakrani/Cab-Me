@@ -1,6 +1,7 @@
 # cabme
 
 A new Flutter project.
+Cabme is an online Taxi Booking app for customer. This project only consist of customer app Code and does not contain all pages due to privacy reasons. Cabme also has a Driver App and an Admin panel which are not uploaded on Github. This project is just for refrence purpose.
 
 ## Getting Started
 
